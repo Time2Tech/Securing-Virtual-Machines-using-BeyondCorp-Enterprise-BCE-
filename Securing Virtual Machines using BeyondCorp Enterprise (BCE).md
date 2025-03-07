@@ -1,8 +1,4 @@
-# Securing Virtual Machines using BeyondCorp Enterprise (BCE) || [GSP1036](https://www.cloudskillsboost.google/focuses/40544?parent=catalog) ||
-
-## Solution [here](https://youtu.be/7880xXUOg34)
-
-### Run the following Commands in CloudShell
+# Securing Virtual Machines using BeyondCorp Enterprise (BCE) 
 
 ```
 export ZONE=
@@ -20,7 +16,3 @@ sudo chmod +x gsp1036.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
